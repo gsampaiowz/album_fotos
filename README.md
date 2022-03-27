@@ -1,2 +1,2 @@
 # AlbumFotos
-Link: https://gsampaiowz.github.io/AlbumFotos/
+Link: https://gsampaiowz.github.io/album_fotos/
